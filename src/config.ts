@@ -1,0 +1,1 @@
+export const opencageApiKey = 'aedb00da5fc54eda83202ad4c4ee91eb';
